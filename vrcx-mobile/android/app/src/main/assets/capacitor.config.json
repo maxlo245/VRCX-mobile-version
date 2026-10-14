@@ -1,0 +1,6 @@
+{
+	"appId": "com.vrcx.mobile",
+	"appName": "VRCX Mobile",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
