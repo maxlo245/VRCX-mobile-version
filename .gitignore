@@ -1,0 +1,12 @@
+.vs/
+node_modules/
+build/
+dist/
+.env
+.DS_Store
+.idea/
+.vscode/
+android/.gradle/
+android/captures/
+android/app/build/
+ios/Pods/
